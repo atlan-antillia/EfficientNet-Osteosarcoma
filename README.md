@@ -413,11 +413,18 @@ References
 https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=52756935
 </pre>
 
-<b>2.Transfer Learning With Adaptive Fine-Tuning<br>
+<b>2. Transfer Learning With Adaptive Fine-Tuning</b><br>
 GREGA VRBANČIČ , (Graduate Student Member, IEEE),<br>
-AND VILI PODGORELEC , (Member, IEEE)<br>
+AND VILI PODGORELEC , (Member, IEEE)><br>
 Faculty of Electrical Engineering and Computer Science, University of Maribor, 2000 Maribor, Slovenia
-Corresponding author: Grega Vrbančič (grega.vrbancic@um.si)</b><br>
+Corresponding author: Grega Vrbančič (grega.vrbancic@um.si)><br>
 <pre>
 https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9241777
+</pre>
+
+<b>3. Convolutional Neural Network for Histopathological Osteosarcoma Image Classification</b><br>
+Imran Ahmed, Humaira Sardar, Hanan Aljuaid, Fakhri Alam Khan, Muhammad Nawaz and Adnan Awais
+<br>
+<pre>
+https://www.techscience.com/cmc/v69n3/44152/html
 </pre>
